@@ -26,5 +26,5 @@
 - Demo時，請直接使用Azure Web Site成品說明
 - 當天顯示Visual Studio Team Server版控歷史紀錄
 
-> 請依照`Description`，發揮創意與解決方案
+> 請依照`Description`，發揮創意、設計解決方案
 
