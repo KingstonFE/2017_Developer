@@ -18,13 +18,15 @@
 # Acceptance Criteria
 > 時間
 - 
+
 > 成果展示
 - 於第二次面試時間的前一週，把自己Github的`Repository`邀請此帳號加入
 - 提供Azure Web Site Url給此帳號
 
-> 於第二次面試時，請現場Demo作品及說明系統架構
+> 第二次面試時，請現場Demo作品及說明系統架構
 - Demo時，請直接使用Azure Web Site成品說明
 - 當天顯示Visual Studio Team Server版控歷史紀錄
 
 > 請依照`Description`，發揮創意、設計解決方案
 
+> 第二次面試時，請說出您對於`DevOps`的認知與看法
