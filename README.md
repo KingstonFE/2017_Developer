@@ -20,7 +20,7 @@
 - 
 
 > 成果展示
-- 於第二次面試時間的前一週，把自己Github的`Repository`邀請此帳號加入
+- 於第二次面試時間的前一週，把自己的Code從VSTS搬移到Github的`Repository`並邀請此帳號加入
 - 提供Azure Web Site Url給此帳號
 
 > 第二次面試時，請現場Demo作品及說明系統架構
