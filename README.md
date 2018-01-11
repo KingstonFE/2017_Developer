@@ -23,7 +23,7 @@
 
 # Acceptance Criteria
 > 時間
-- 
+- 2018/01/15~2018/02/02
 
 > 成果展示
 - 於第二次面試時間的前一週，把自己的Code從VSTS搬移到Github的`Repository`並邀請此帳號加入
