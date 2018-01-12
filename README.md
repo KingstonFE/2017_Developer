@@ -8,7 +8,7 @@
 1. 多套系統的故障排除方法都會被技術在這平台
 2. 能讓用戶快速找到問題解答方法，以及針對問題解答反饋與討論
 3. 具有權限管控，管者者和用戶的功能是不同的
-4. 能在PC和Mobile都可以瀏覽，且mobile瀏覽必須符合Mobile操作行為
+4. 能在PC和Mobile都可以使用此系統
 5. 能在紀錄資訊的內容中放入圖片，User & System Owner皆如此
 
 
@@ -19,6 +19,7 @@
 > 技術
 - Web Back-end : 請使用ASP.Net Core 2.0進行開發
 - Web Front-end : 不限制任何Framework
+- Mobile : 請用Native App形式呈現尤佳
 - DataBase : MS SQL
 
 # Acceptance Criteria
